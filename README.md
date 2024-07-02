@@ -1,5 +1,15 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=uttih" />
+</div>
 
 # Hi <img width="60" height="60" src="assets/pepe-pepe-the-frog.gif">
+
+- 🧑‍💻 I'm a Apprentice engineer.
+- 🌱 I’m currently learning JavaScript,TypeScript,NextJS and AWS!
+- 📫 Contact me: [Wantedly](https://www.wantedly.com/id/u_hikaru0830)
+<br>
+
+
 
 <div> <img width="200" height="200" src="assets/tohru.gif"/> </div>
 
