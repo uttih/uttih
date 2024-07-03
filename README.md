@@ -9,6 +9,7 @@
 - 📫 Contact me: [Wantedly](https://www.wantedly.com/id/u_hikaru0830)
 <br>
 
+## 🎯 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,php,laravel,vscode,git,aws&theme=light)](https://skillicons.dev)
 
 
