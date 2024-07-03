@@ -14,8 +14,11 @@
 
 <div> <img width="200" height="200" src="assets/tohru.gif"/> </div>
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttih&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=uttih&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttih&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
 
 <!--　　![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c60jsisv5xc5xacras9fmd4k7) -->
 
