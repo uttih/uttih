@@ -6,7 +6,7 @@
 
 - 🧑‍💻 I'm a Apprentice engineer.
 - 🌱 I’m currently learning JavaScript,TypeScript,NextJS and AWS!
-- ✏ CERTIFICATIONS - AWS Certified Solutions Architect - Associate
+- 🎈 CERTIFICATIONS - AWS Certified Solutions Architect - Associate
 - 📫 Contact me: [Wantedly](https://www.wantedly.com/id/u_hikaru0830)
 <br>
 
